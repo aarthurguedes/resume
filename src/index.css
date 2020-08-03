@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: 8.75rem 1fr;
+  grid-template-areas: 
+    "header header"
+    "aside main";
+  overflow-y: hidden;
+}
+
+header {
+  grid-area: header;
+}
+
+aside {
+  grid-area: aside;
+}
+
+main {
+  grid-area: main;
+}

@@ -1,0 +1,26 @@
+.experience__title {
+    color: #1b4965;
+    font-size: 1.2rem;
+    font-weight: 600;
+    max-width: max-content;
+    text-decoration: none;
+    border-bottom: 3px solid #1b4965;
+}
+
+.experience__duration {
+    font-weight: 400;
+    margin: 0.25rem 0;
+}
+
+.span--semi-bold {
+    font-weight: 600;
+}
+
+.experience__activities {
+    list-style-type: square;
+    margin: 0.5rem 0;
+}
+
+.experience--mb {
+    margin-bottom: 1.25rem;
+}

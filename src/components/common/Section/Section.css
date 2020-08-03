@@ -1,0 +1,12 @@
+.section__title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.section__title > span {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-left: 0.5rem;
+    text-transform: uppercase;
+}

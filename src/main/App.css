@@ -1,0 +1,23 @@
+.span--big {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.span--light {
+    color: #495057;
+}
+
+.link:hover {
+    color: #1b4965;
+}
+
+.section p {
+    margin: 0;
+    text-align: justify;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+  

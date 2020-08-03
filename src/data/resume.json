@@ -1,0 +1,56 @@
+{
+    "name": "Arthur Guedes",
+    "occupation": "Software Developer",
+    "personalInfo": {
+        "labels": [
+            "linkedin.com/in/arthurslguedes",
+            "github.com/aarthurguedes",
+            "arthurslguedes@gmail.com"
+        ],
+        "links": [
+            "https://www.linkedin.com/in/arthurslguedes/",
+            "https://github.com/aarthurguedes",
+            "mailto:arthurslguedes@gmail.com"
+        ]
+    },
+    "education": {
+        "course": "Computer Science",
+        "institution": "Federal University of Campina Grande",
+        "institutionPage": "https://portal.ufcg.edu.br/",
+        "duration": "2018 - Present"
+    },
+    "languages": [
+        {
+            "language": "Portuguese",
+            "level": "Native"
+        },
+        {
+            "language": "English",
+            "level": "Advanced"
+        }
+    ],
+    "about": "Computer Science student, currently studying the 5th period of the course and working with web development. Until the moment of graduation, i had the opportunity to work with software development on both the frontend and backend side. In addition, i'm interested in the field of data science. In my free time, i like to learn/discover new things and i'm always ready for new challenges.",
+    "experience": [
+        {
+            "company": "Incodde",
+            "companyPage": "https://www.incodde.com/",
+            "duration": "2020/April - Present",
+            "activities": [
+                "Frontend Development"
+            ],
+            "technologies": "Vue.js, Ember.js, Jest, TailwindCSS"
+        },
+        {
+            "company": "Gama Academy (In partnership with VTEX)",
+            "companyPage": "https://gama.academy/",
+            "duration": "2020/March - Present",
+            "activities": [
+                "Fullstack Training",
+                "Study of agile methodologies such as Scrum and Kanban",
+                "Study of best development practices: BEM, Design System, Storybook, Micro Frontends, MVC, MVVM, Design Patterns"
+            ],
+            "technologies": "React, Bootstrap, Node.js, Typescript, GraphQL, Jest, Cypress"
+        }
+    ],
+    "skills": "HTML, CSS, JavaScript, React, Vue.js, Node.js, Typescript, Jest, Cypress, Java (Spring Boot), Python, PHP (Laravel/Lumen), GraphQL, Docker"
+}
