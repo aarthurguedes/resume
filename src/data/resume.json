@@ -32,18 +32,28 @@
     "about": "Computer Science student, currently studying the 5th period of the course and working with web development. Until the moment of graduation, i had the opportunity to work with software development on both the frontend and backend side. In addition, i'm interested in the field of data science. In my free time, i like to learn/discover new things and i'm always ready for new challenges.",
     "experience": [
         {
+            "company": "Software Practices Laboratory (SPLAB) - CodeSQ",
+            "companyPage": "https://splab.computacao.ufcg.edu.br/",
+            "duration": "2020/November - Present",
+            "activities": [
+                "Frontend Development",
+                "Application containerization using docker and docker-compose"
+            ],
+            "technologies": "React (Redux), Jest, Docker"
+        },
+        {
             "company": "Incodde",
             "companyPage": "https://www.incodde.com/",
-            "duration": "2020/April - Present",
+            "duration": "2020/April - 2020/October",
             "activities": [
-                "Frontend Development"
+                "Full Stack Development"
             ],
-            "technologies": "Vue.js, Ember.js, Jest, TailwindCSS"
+            "technologies": "Vue.js, Node.js, Ember.js, Jest, TailwindCSS"
         },
         {
             "company": "Gama Academy (In partnership with VTEX)",
             "companyPage": "https://gama.academy/",
-            "duration": "2020/March - Present",
+            "duration": "2020/March - 2020/September",
             "activities": [
                 "Fullstack Training",
                 "Study of agile methodologies such as Scrum and Kanban",
@@ -52,5 +62,5 @@
             "technologies": "React, Bootstrap, Node.js, Typescript, GraphQL, Jest, Cypress"
         }
     ],
-    "skills": "HTML, CSS, JavaScript, React, Vue.js, Node.js, Typescript, Jest, Cypress, Java (Spring Boot), Python, PHP (Laravel/Lumen), GraphQL, Docker"
+    "skills": "HTML, CSS, JavaScript, React (Redux), Vue.js, Node.js, Typescript, Jest, Cypress, Java (Spring Boot), Python, PHP (Laravel/Lumen), GraphQL, Docker"
 }
