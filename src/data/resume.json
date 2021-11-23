@@ -29,14 +29,24 @@
             "level": "Advanced"
         }
     ],
-    "about": "Computer Science student, currently studying the 6th period of the course and working with web development. Until the moment of graduation, i had the opportunity to work with software development on both the frontend and backend side. In addition, I had the experience of developing infrastructures for application development, using technologies such as Docker. In my free time, i like to learn/discover new things and i'm always ready for new challenges.",
+    "about": "Computer Science student, currently studying the 8th period of the course and working with full stack development. Until the moment of graduation, i had the opportunity to work with software development on both the frontend and backend side. In addition, I had the experience of developing infrastructures for application development, using technologies such as Docker. In my free time, i like to learn/discover new things and i'm always ready for new challenges.",
     "experience": [
+        {
+            "company": "act digital",
+            "companyPage": "https://actdigital.com/",
+            "duration": "2021/August - Present",
+            "activities": [
+                "Frontend development focusing on microfrontend architecture",
+                "Backend development (with unit and integration tests)"
+            ],
+            "technologies": "React (TypeScript), NestJS, Jest, Docker, MySQL"
+        },
         {
             "company": "Software Practices Laboratory (SPLAB) - CodeSQ",
             "companyPage": "https://splab.computacao.ufcg.edu.br/",
-            "duration": "2020/November - Present",
+            "duration": "2020/November - 2021/August",
             "activities": [
-                "Frontend Development",
+                "Frontend Development (with unit tests)",
                 "Application containerization using docker and docker-compose"
             ],
             "technologies": "React (Redux), Jest, Docker"
@@ -62,5 +72,5 @@
             "technologies": "React, Bootstrap, Node.js, Typescript, GraphQL, Jest, Cypress"
         }
     ],
-    "skills": "HTML, CSS, JavaScript, React (Redux), Vue.js, Node.js, Typescript, Jest, Cypress, Java (Spring Boot), Python, PHP (Laravel/Lumen), GraphQL, Docker"
+    "skills": "HTML, CSS, JavaScript, TypeScript, React (Redux), Next.js, Vue.js, Node.js, NestJS, Jest, Java (Spring Boot), Python, PHP (Laravel/Lumen), Docker"
 }
